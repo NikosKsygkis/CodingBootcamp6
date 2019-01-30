@@ -1,0 +1,29 @@
+The application refers to a news-company intercommunication system.
+
+There are three roles.
+
+The administrator that creates, deletes, updates Users and views the transacted messages between Editors and Writers.
+
+The editors that view and create messages and can also  completely delete messages.
+
+The writer can view his messages as well as temporarily delete them as they will still exist in the database.
+
+
+Basic messaging interactions are: create message, forward message, reply to a message, delete message(can be viewed by the user as deleted message).
+
+The editors can additionally correct a message, send to all writers and completely delete a message.
+
+
+
+
+I have included the dummy Users below for log-in purposes:
+
+1) Username: admin , Password: admin   Role: Administrator
+
+2) Username: editor1 , Password: editor1  Role: Editor
+
+3) Username: editor2 , Password: editor2  Role: Editor
+
+4) Username: writer1 , Password: writer1  Role: Writer
+
+5) Username: writer2 , Password: writer2  Role: Writer
