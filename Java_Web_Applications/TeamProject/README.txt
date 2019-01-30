@@ -1,4 +1,4 @@
-This project was created during the CodingBootcamp6 by Nikos Ksygkis, Alexandros Makris, Belechris Marios and Dimitrios Koulouktis.
+This project was created during the CodingBootcamp 6 Java seminar by Nikos Ksygkis, Alexandros Makris, Belechris Marios and Dimitrios Koulouktis.
 It is a web application that allows users to create articles, and interact through comments, like-dislike buttons etc.
 
 There are two roles.
